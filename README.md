@@ -1,2 +1,3 @@
 # noktaoruntudenelyazisiylasayitahmin
-nokta oruntuden el yazisiyla sayi tahmin
+SVM Modeli kullanılmıştır. 
+SVM (Destek Vektör Makineleri), nokta örüntülerinden el yazısı sayıların tahmini için kullanılan etkili bir sınıflandırma algoritmasıdır. Veriyi matematiksel bir vektör formatına dönüştürerek her sayıya bir sınıf etiketi atar ve sınıflar arasındaki en iyi ayrımı sağlayan bir hiperdüzlem oluşturur. Nokta örüntüleri doğrudan kullanılabilir ve eğitimden sonra, SVM yeni nokta örüntülerini alarak tahmin yapar. Küçük ve orta ölçekli veri setlerinde başarılı olan bu yöntem, doğru çekirdek fonksiyonu seçildiğinde karmaşık örüntülerde de etkili sonuçlar verir.
